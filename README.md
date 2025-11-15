@@ -3,26 +3,7 @@
 To use Excel, SQL, Python, and Power BI to turn raw data into useful information.
 The goal is to make a simple, interactive dashboard that helps people make better decisions.
 ## Dataset used
-- <a href="https://github.com/anushaks-05/ecommerce-dashboard/blob/main/ecommerce_data_excel.xlsx">Dataset</a>
-## Problem Statement
-- Create a KPI Banner showing YTD Sales, YTD Profit, YTD Quantity Sold, YTD Profit Margin
-- Find YoY growth for each KPI and show YTD sparkline for each
-- Find YTD Sales, PYTD Sales, YoY Sales growth for customer categories with trend icons
-- Find YTD Sales performance by each State
-- Top 5 and Bottom 5 Products by Sales
-- YTD Sales by Region (best and worst region)
-- YTD Sales by Shipping Type with percentage contribution
-  
-## Questions (KPIs)
-- What are the total YTD Sales, YTD Profit, YTD Quantity Sold, and YTD Profit Margin?
-- What is the Year-on-Year (YoY) Growth for each KPI?
-- What is the monthly trend for Sales, Profit, and Quantity (YTD Sparkline)?
-- What are the YTD Sales, PYTD Sales, and YoY Growth for each Customer Category?
-- Which State has the highest and lowest YTD Sales?
-- Which are the Top 5 best-selling products?
-- Which are the Bottom 5 lowest-selling products?
-- Which Region is performing the best and which is the worst?
-- What is the YTD Sales by Shipping Type and its percentage contribution?
+- <a href="https://github.com/anushaks-05/blinkIt-data-analysis-project/blob/main/blinkit%20excel%20dashboard.xlsx">Dataset</a>
 
 - Dashboard Interaction <a href="https://github.com/anushaks-05/ecommerce-dashboard/blob/main/Screenshot%20.png">View Dashboard<a/>
 
